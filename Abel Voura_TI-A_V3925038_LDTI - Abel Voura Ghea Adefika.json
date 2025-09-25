@@ -1,0 +1,968 @@
+{
+"Portal_data_terbuka_pemerintah": [
+  {
+    "title": "Angka Kejadian Kasus Penyakit Tidak Menular RSUD Bagas Waras Kabupaten Klaten Tahun 2020",
+    "format": "XLSX",
+    "region": "Kabupaten Klaten",
+    "description": "Data angka kejadian kasus penyakit tidak menular di RSUD Bagas Waras Klaten tahun 2020."
+  },
+  {
+    "title": "Angka Kejadian Malaria Kabupaten Jombang 2018 s.d. 2022",
+    "format": "CSV",
+    "region": "Kabupaten Jombang",
+    "description": "Data angka kejadian malaria di Kabupaten Jombang dari tahun 2018 sampai 2022."
+  },
+  {
+    "title": "Angka Kejadian Malaria Tahun 2018",
+    "format": "CSV",
+    "region": "Kabupaten Rokan Hilir",
+    "description": "Data insidens malaria berdasarkan Annual Parasite Incidence (API) tahun 2018."
+  },
+  {
+    "title": "Angka Kejadian Konflik di Provinsi Bali",
+    "format": "JSON",
+    "region": "Provinsi Bali",
+    "description": "Data angka kejadian konflik di Provinsi Bali."
+  },
+  {
+    "title": "Angka Kejadian Malaria",
+    "format": "JSON",
+    "region": "Provinsi Bali",
+    "description": "Data persentase angka kejadian malaria di Provinsi Bali."
+  },
+  {
+    "title": "Angka Kelahiran dan Kematian Kasar",
+    "format": "XLSX",
+    "region": "Kabupaten Demak",
+    "description": "Data angka kelahiran dan kematian kasar (CBR & CDR) per desa di Kecamatan Mijen tahun 2013."
+  },
+  {
+    "title": "Investasi Pembangunan Infrastruktur Jalan Tol",
+    "format": "JSON",
+    "region": "Nasional",
+    "description": "Data investasi pembangunan infrastruktur jalan tol di Indonesia."
+  },
+  {
+    "title": "Kemiskinan Nasional",
+    "format": "JSON",
+    "region": "Nasional",
+    "description": "Data tingkat kemiskinan nasional di Indonesia."
+  },
+  {
+    "title": "Kemiskinan Daerah",
+    "format": "JSON",
+    "region": "Daerah",
+    "description": "Data tingkat kemiskinan di berbagai daerah di Indonesia."
+  },
+  {
+    "title": "Pendidikan",
+    "format": "JSON",
+    "region": "Nasional",
+    "description": "Data statistik pendidikan di Indonesia."
+  },
+  {
+    "title": "Ketahanan Pangan",
+    "format": "JSON",
+    "region": "Nasional",
+    "description": "Data ketahanan pangan di Indonesia."
+  },
+  {
+    "title": "APBD Kabupaten/Kota",
+    "format": "JSON",
+    "region": "Kabupaten/Kota",
+    "description": "Data Anggaran Pendapatan dan Belanja Daerah tingkat kabupaten/kota."
+  },
+  {
+    "title": "APBD Provinsi",
+    "format": "JSON",
+    "region": "Provinsi",
+    "description": "Data Anggaran Pendapatan dan Belanja Daerah tingkat provinsi."
+  },
+  {
+    "title": "Stunting Daerah",
+    "format": "JSON",
+    "region": "Daerah",
+    "description": "Data prevalensi stunting di berbagai daerah."
+  },
+  {
+    "title": "Stunting Nasional",
+    "format": "JSON",
+    "region": "Nasional",
+    "description": "Data prevalensi stunting secara nasional."
+  },
+  {
+    "title": "Lingkungan",
+    "format": "JSON",
+    "region": "Nasional",
+    "description": "Data terkait kondisi lingkungan hidup di Indonesia."
+  },
+  {
+    "title": "Infrastruktur",
+    "format": "JSON",
+    "region": "Nasional",
+    "description": "Data pembangunan dan kondisi infrastruktur di Indonesia."
+  },
+  {
+    "title": "Data Kependudukan Indonesia",
+    "format": "JSON",
+    "region": "Nasional",
+    "description": "Data kependudukan nasional Indonesia."
+  },
+  {
+    "title": "Data Kesehatan Indonesia",
+    "format": "JSON",
+    "region": "Nasional",
+    "description": "Data kesehatan masyarakat dan fasilitas kesehatan."
+  },
+  {
+    "title": "Data Perdagangan Ekspor-Impor",
+    "format": "JSON",
+    "region": "Nasional",
+    "description": "Data perdagangan luar negeri Indonesia."
+  },
+  {
+    "title": "Data Pariwisata Indonesia",
+    "format": "JSON",
+    "region": "Nasional",
+    "description": "Data kunjungan wisatawan dan destinasi pariwisata."
+  },
+  {
+    "title": "Data Energi Terbarukan",
+    "format": "JSON",
+    "region": "Nasional",
+    "description": "Data pemanfaatan energi terbarukan di Indonesia."
+  },
+  {
+    "title": "Data Transportasi Umum",
+    "format": "JSON",
+    "region": "Nasional",
+    "description": "Data rute dan jadwal transportasi umum."
+  },
+  {
+    "title": "Data Kepolisian dan Keamanan",
+    "format": "JSON",
+    "region": "Nasional",
+    "description": "Data kriminalitas dan keamanan publik."
+  },
+  {
+    "title": "Data Pertanian dan Perkebunan",
+    "format": "JSON",
+    "region": "Nasional",
+    "description": "Data produksi dan luas lahan pertanian."
+  },
+  {
+    "title": "Data Perikanan dan Kelautan",
+    "format": "JSON",
+    "region": "Nasional",
+    "description": "Data hasil tangkapan dan budidaya perikanan."
+  }
+],
+"Laporan_keuangan_resmi_DPR": [
+[
+  {
+    "id": 1,
+    "title": "Laporan Keuangan DPR Tahun 2024",
+    "year": 2024,
+    "type": "Laporan Tahunan",
+    "source": "Sekretariat Jenderal DPR RI",
+    "format": "PDF",
+    "link": "https://www.dpr.go.id/laporan-keuangan/2024.pdf"
+  },
+  {
+    "id": 2,
+    "title": "Laporan Realisasi Anggaran DPR Semester 1 Tahun 2025",
+    "year": 2025,
+    "type": "Laporan Semester",
+    "source": "Badan Urusan Administrasi DPR RI",
+    "format": "Excel",
+    "link": "https://www.dpr.go.id/laporan-keuangan/semester1-2025.xlsx"
+  },
+  {
+    "id": 3,
+    "title": "Laporan Penggunaan Dana Reses DPR Tahun 2023",
+    "year": 2023,
+    "type": "Laporan Khusus",
+    "source": "Badan Anggaran DPR RI",
+    "format": "PDF",
+    "link": "https://www.dpr.go.id/laporan-keuangan/reses-2023.pdf"
+  },
+  {
+    "id": 4,
+    "title": "Laporan Keuangan DPR Triwulan 4 Tahun 2024",
+    "year": 2024,
+    "type": "Laporan Triwulan",
+    "source": "Sekretariat Jenderal DPR RI",
+    "format": "JSON",
+    "link": "https://data.dpr.go.id/keuangan/triwulan4-2024.json"
+  },
+  {
+    "id": 5,
+    "title": "Laporan Realisasi Anggaran DPR Tahun 2022",
+    "year": 2022,
+    "type": "Laporan Tahunan",
+    "source": "Badan Urusan Administrasi DPR RI",
+    "format": "PDF",
+    "link": "https://www.dpr.go.id/laporan-keuangan/2022.pdf"
+  },
+  {
+    "id": 6,
+    "title": "Laporan Keuangan DPR Semester 2 Tahun 2023",
+    "year": 2023,
+    "type": "Laporan Semester",
+    "source": "Sekretariat Jenderal DPR RI",
+    "format": "Excel",
+    "link": "https://www.dpr.go.id/laporan-keuangan/semester2-2023.xlsx"
+  },
+  {
+    "id": 7,
+    "title": "Laporan Penggunaan Dana Operasional DPR Tahun 2024",
+    "year": 2024,
+    "type": "Laporan Khusus",
+    "source": "Badan Anggaran DPR RI",
+    "format": "PDF",
+    "link": "https://www.dpr.go.id/laporan-keuangan/operasional-2024.pdf"
+  },
+  {
+    "id": 8,
+    "title": "Laporan Keuangan DPR Triwulan 1 Tahun 2025",
+    "year": 2025,
+    "type": "Laporan Triwulan",
+    "source": "Sekretariat Jenderal DPR RI",
+    "format": "JSON",
+    "link": "https://data.dpr.go.id/keuangan/triwulan1-2025.json"
+  },
+  {
+    "id": 9,
+    "title": "Laporan Realisasi Anggaran DPR Tahun 2021",
+    "year": 2021,
+    "type": "Laporan Tahunan",
+    "source": "Badan Urusan Administrasi DPR RI",
+    "format": "PDF",
+    "link": "https://www.dpr.go.id/laporan-keuangan/2021.pdf"
+  },
+  {
+    "id": 10,
+    "title": "Laporan Keuangan DPR Semester 1 Tahun 2024",
+    "year": 2024,
+    "type": "Laporan Semester",
+    "source": "Sekretariat Jenderal DPR RI",
+    "format": "Excel",
+    "link": "https://www.dpr.go.id/laporan-keuangan/semester1-2024.xlsx"
+  },
+  {
+    "id": 11,
+    "title": "Laporan Penggunaan Dana Reses DPR Tahun 2022",
+    "year": 2022,
+    "type": "Laporan Khusus",
+    "source": "Badan Anggaran DPR RI",
+    "format": "PDF",
+    "link": "https://www.dpr.go.id/laporan-keuangan/reses-2022.pdf"
+  },
+  {
+    "id": 12,
+    "title": "Laporan Keuangan DPR Triwulan 3 Tahun 2024",
+    "year": 2024,
+    "type": "Laporan Triwulan",
+    "source": "Sekretariat Jenderal DPR RI",
+    "format": "JSON",
+    "link": "https://data.dpr.go.id/keuangan/triwulan3-2024.json"
+  },
+  {
+    "id": 13,
+    "title": "Laporan Realisasi Anggaran DPR Tahun 2020",
+    "year": 2020,
+    "type": "Laporan Tahunan",
+    "source": "Badan Urusan Administrasi DPR RI",
+    "format": "PDF",
+    "link": "https://www.dpr.go.id/laporan-keuangan/2020.pdf"
+  },
+  {
+    "id": 14,
+    "title": "Laporan Keuangan DPR Semester 2 Tahun 2022",
+    "year": 2022,
+    "type": "Laporan Semester",
+    "source": "Sekretariat Jenderal DPR RI",
+    "format": "Excel",
+    "link": "https://www.dpr.go.id/laporan-keuangan/semester2-2022.xlsx"
+  },
+  {
+    "id": 15,
+    "title": "Laporan Penggunaan Dana Operasional DPR Tahun 2023",
+    "year": 2023,
+    "type": "Laporan Khusus",
+    "source": "Badan Anggaran DPR RI",
+    "format": "PDF",
+    "link": "https://www.dpr.go.id/laporan-keuangan/operasional-2023.pdf"
+  },
+  {
+    "id": 16,
+    "title": "Laporan Keuangan DPR Triwulan 2 Tahun 2025",
+    "year": 2025,
+    "type": "Laporan Triwulan",
+    "source": "Sekretariat Jenderal DPR RI",
+    "format": "JSON",
+    "link": "https://data.dpr.go.id/keuangan/triwulan2-2025.json"
+  },
+  {
+    "id": 17,
+    "title": "Laporan Realisasi Anggaran DPR Tahun 2019",
+    "year": 2019,
+    "type": "Laporan Tahunan",
+    "source": "Badan Urusan Administrasi DPR RI",
+    "format": "PDF",
+    "link": "https://www.dpr.go.id/laporan-keuangan/2019.pdf"
+  },
+  {
+    "id": 18,
+    "title": "Laporan Keuangan DPR Semester 1 Tahun 2023",
+    "year": 2023,
+    "type": "Laporan Semester",
+    "source": "Sekretariat Jenderal DPR RI",
+    "format": "Excel",
+    "link": "https://www.dpr.go.id/laporan-keuangan/semester1-2023.xlsx"
+  },
+  {
+    "id": 19,
+    "title": "Laporan Penggunaan Dana Reses DPR Tahun 2021",
+    "year": 2021,
+    "type": "Laporan Khusus",
+    "source": "Badan Anggaran DPR RI",
+    "format": "PDF",
+    "link": "https://www.dpr.go.id/laporan-keuangan/reses-2021.pdf"
+  },
+  {
+    "id": 20,
+    "title": "Laporan Keuangan DPR Triwulan 4 Tahun 2023",
+    "year": 2023,
+    "type": "Laporan Triwulan",
+    "source": "Sekretariat Jenderal DPR RI",
+    "format": "JSON",
+    "link": "https://data.dpr.go.id/keuangan/triwulan4-2023.json"
+  },
+  {
+    "id": 21,
+    "title": "Laporan Realisasi Anggaran DPR Tahun 2018",
+    "year": 2018,
+    "type": "Laporan Tahunan",
+    "source": "Badan Urusan Administrasi DPR RI",
+    "format": "PDF",
+    "link": "https://www.dpr.go.id/laporan-keuangan/2018.pdf"
+  },
+  {
+    "id": 22,
+    "title": "Laporan Keuangan DPR Semester 2 Tahun 2021",
+    "year": 2021,
+    "type": "Laporan Semester",
+    "source": "Sekretariat Jenderal DPR RI",
+    "format": "Excel",
+    "link": "https://www.dpr.go.id/laporan-keuangan/semester2-2021.xlsx"
+  },
+  {
+    "id": 23,
+    "title": "Laporan Penggunaan Dana Operasional DPR Tahun 2022",
+    "year": 2022,
+    "type": "Laporan Khusus",
+    "source": "Badan Anggaran DPR RI",
+    "format": "PDF",
+    "link": "https://www.dpr.go.id/laporan-keuangan/operasional-2022.pdf"
+  },
+  {
+    "id": 24,
+    "title": "Laporan Keuangan DPR Triwulan 1 Tahun 2024",
+    "year": 2024,
+    "type": "Laporan Triwulan",
+    "source": "Sekretariat Jenderal DPR RI",
+    "format": "JSON",
+    "link": "https://data.dpr.go.id/keuangan/triwulan1-2024.json"
+  },
+  {
+    "id": 25,
+    "title": "Laporan Realisasi Anggaran DPR Tahun 2017",
+    "year": 2017,
+    "type": "Laporan Tahunan",
+    "source": "Badan Urusan Administrasi DPR RI",
+    "format": "PDF",
+    "link": "https://www.dpr.go.id/laporan-keuangan/2017.pdf"
+  }
+],
+"Lapran_masyarakat_melalui_aplikasi-moblie": [
+[
+  {
+    "id": 1,
+    "user_id": "U001",
+    "timestamp": "2024-06-01T08:15:30Z",
+    "location": {
+      "latitude": -6.200000,
+      "longitude": 106.816666
+    },
+    "category": "Sampah",
+    "description": "Tumpukan sampah di pinggir jalan utama.",
+    "status": "Dalam Proses",
+    "photo_url": "https://example.com/photos/report1.jpg"
+  },
+  {
+    "id": 2,
+    "user_id": "U002",
+    "timestamp": "2024-06-01T09:45:10Z",
+    "location": {
+      "latitude": -6.210000,
+      "longitude": 106.820000
+    },
+    "category": "Penerangan Jalan",
+    "description": "Lampu jalan mati di blok B.",
+    "status": "Selesai",
+    "photo_url": "https://example.com/photos/report2.jpg"
+  },
+  {
+    "id": 3,
+    "user_id": "U003",
+    "timestamp": "2024-06-01T10:05:50Z",
+    "location": {
+      "latitude": -6.215000,
+      "longitude": 106.825000
+    },
+    "category": "Banjir",
+    "description": "Genangan air di jalan utama setelah hujan.",
+    "status": "Dalam Proses",
+    "photo_url": "https://example.com/photos/report3.jpg"
+  },
+  {
+    "id": 4,
+    "user_id": "U004",
+    "timestamp": "2024-06-01T11:20:00Z",
+    "location": {
+      "latitude": -6.220000,
+      "longitude": 106.830000
+    },
+    "category": "Kerusakan Jalan",
+    "description": "Lubang besar di jalan raya dekat sekolah.",
+    "status": "Dalam Proses",
+    "photo_url": "https://example.com/photos/report4.jpg"
+  },
+  {
+    "id": 5,
+    "user_id": "U005",
+    "timestamp": "2024-06-01T12:30:15Z",
+    "location": {
+      "latitude": -6.225000,
+      "longitude": 106.835000
+    },
+    "category": "Sampah",
+    "description": "Sampah menumpuk di tempat pembuangan sementara.",
+    "status": "Selesai",
+    "photo_url": "https://example.com/photos/report5.jpg"
+  },
+  {
+    "id": 6,
+    "user_id": "U006",
+    "timestamp": "2024-06-01T13:45:40Z",
+    "location": {
+      "latitude": -6.230000,
+      "longitude": 106.840000
+    },
+    "category": "Penerangan Jalan",
+    "description": "Lampu jalan redup dan sering mati.",
+    "status": "Dalam Proses",
+    "photo_url": "https://example.com/photos/report6.jpg"
+  },
+  {
+    "id": 7,
+    "user_id": "U007",
+    "timestamp": "2024-06-01T14:55:25Z",
+    "location": {
+      "latitude": -6.235000,
+      "longitude": 106.845000
+    },
+    "category": "Banjir",
+    "description": "Air menggenang di area perumahan setelah hujan deras.",
+    "status": "Dalam Proses",
+    "photo_url": "https://example.com/photos/report7.jpg"
+  },
+  {
+    "id": 8,
+    "user_id": "U008",
+    "timestamp": "2024-06-01T15:10:05Z",
+    "location": {
+      "latitude": -6.240000,
+      "longitude": 106.850000
+    },
+    "category": "Kerusakan Jalan",
+    "description": "Aspal jalan retak dan berlubang.",
+    "status": "Selesai",
+    "photo_url": "https://example.com/photos/report8.jpg"
+  },
+  {
+    "id": 9,
+    "user_id": "U009",
+    "timestamp": "2024-06-01T16:25:30Z",
+    "location": {
+      "latitude": -6.245000,
+      "longitude": 106.855000
+    },
+    "category": "Sampah",
+    "description": "Sampah berserakan di taman kota.",
+    "status": "Dalam Proses",
+    "photo_url": "https://example.com/photos/report9.jpg"
+  },
+  {
+    "id": 10,
+    "user_id": "U010",
+    "timestamp": "2024-06-01T17:40:50Z",
+    "location": {
+      "latitude": -6.250000,
+      "longitude": 106.860000
+    },
+    "category": "Penerangan Jalan",
+    "description": "Lampu jalan tidak menyala di jalan perumahan.",
+    "status": "Selesai",
+    "photo_url": "https://example.com/photos/report10.jpg"
+  },
+  {
+    "id": 11,
+    "user_id": "U011",
+    "timestamp": "2024-06-02T08:05:15Z",
+    "location": {
+      "latitude": -6.255000,
+      "longitude": 106.865000
+    },
+    "category": "Banjir",
+    "description": "Genangan air di bawah jembatan kecil.",
+    "status": "Dalam Proses",
+    "photo_url": "https://example.com/photos/report11.jpg"
+  },
+  {
+    "id": 12,
+    "user_id": "U012",
+    "timestamp": "2024-06-02T09:15:40Z",
+    "location": {
+      "latitude": -6.260000,
+      "longitude": 106.870000
+    },
+    "category": "Kerusakan Jalan",
+    "description": "Jalan berlubang di dekat pasar tradisional.",
+    "status": "Dalam Proses",
+    "photo_url": "https://example.com/photos/report12.jpg"
+  },
+  {
+    "id": 13,
+    "user_id": "U013",
+    "timestamp": "2024-06-02T10:30:20Z",
+    "location": {
+      "latitude": -6.265000,
+      "longitude": 106.875000
+    },
+    "category": "Sampah",
+    "description": "Sampah menumpuk di selokan.",
+    "status": "Selesai",
+    "photo_url": "https://example.com/photos/report13.jpg"
+  },
+  {
+    "id": 14,
+    "user_id": "U014",
+    "timestamp": "2024-06-02T11:45:55Z",
+    "location": {
+      "latitude": -6.270000,
+      "longitude": 106.880000
+    },
+    "category": "Penerangan Jalan",
+    "description": "Lampu jalan mati di sepanjang jalan utama.",
+    "status": "Dalam Proses",
+    "photo_url": "https://example.com/photos/report14.jpg"
+  },
+  {
+    "id": 15,
+    "user_id": "U015",
+    "timestamp": "2024-06-02T12:55:35Z",
+    "location": {
+      "latitude": -6.275000,
+      "longitude": 106.885000
+    },
+    "category": "Banjir",
+    "description": "Air menggenang di jalan perumahan setelah hujan lebat.",
+    "status": "Dalam Proses",
+    "photo_url": "https://example.com/photos/report15.jpg"
+  },
+  {
+    "id": 16,
+    "user_id": "U016",
+    "timestamp": "2024-06-02T14:10:10Z",
+    "location": {
+      "latitude": -6.280000,
+      "longitude": 106.890000
+    },
+    "category": "Kerusakan Jalan",
+    "description": "Retakan besar di aspal jalan utama.",
+    "status": "Selesai",
+    "photo_url": "https://example.com/photos/report16.jpg"
+  },
+  {
+    "id": 17,
+    "user_id": "U017",
+    "timestamp": "2024-06-02T15:20:45Z",
+    "location": {
+      "latitude": -6.285000,
+      "longitude": 106.895000
+    },
+    "category": "Sampah",
+    "description": "Sampah berserakan di area taman bermain anak.",
+    "status": "Dalam Proses",
+    "photo_url": "https://example.com/photos/report17.jpg"
+  },
+  {
+    "id": 18,
+    "user_id": "U018",
+    "timestamp": "2024-06-02T16:35:25Z",
+    "location": {
+      "latitude": -6.290000,
+      "longitude": 106.900000
+    },
+    "category": "Penerangan Jalan",
+    "description": "Lampu jalan redup dan tidak merata.",
+    "status": "Dalam Proses",
+    "photo_url": "https://example.com/photos/report18.jpg"
+  },
+  {
+    "id": 19,
+    "user_id": "U019",
+    "timestamp": "2024-06-02T17:50:00Z",
+    "location": {
+      "latitude": -6.295000,
+      "longitude": 106.905000
+    },
+    "category": "Banjir",
+    "description": "Genangan air di jalan akses sekolah.",
+    "status": "Selesai",
+    "photo_url": "https://example.com/photos/report19.jpg"
+  },
+  {
+    "id": 20,
+    "user_id": "U020",
+    "timestamp": "2024-06-03T08:05:30Z",
+    "location": {
+      "latitude": -6.300000,
+      "longitude": 106.910000
+    },
+    "category": "Kerusakan Jalan",
+    "description": "Lubang kecil di jalan perkampungan.",
+    "status": "Dalam Proses",
+    "photo_url": "https://example.com/photos/report20.jpg"
+  },
+  {
+    "id": 21,
+    "user_id": "U021",
+    "timestamp": "2024-06-03T09:15:10Z",
+    "location": {
+      "latitude": -6.305000,
+      "longitude": 106.915000
+    },
+    "category": "Sampah",
+    "description": "Sampah menumpuk di pinggir sungai.",
+    "status": "Dalam Proses",
+    "photo_url": "https://example.com/photos/report21.jpg"
+  },
+  {
+    "id": 22,
+    "user_id": "U022",
+    "timestamp": "2024-06-03T10:30:45Z",
+    "location": {
+      "latitude": -6.310000,
+      "longitude": 106.920000
+    },
+    "category": "Penerangan Jalan",
+    "description": "Lampu jalan mati di jalan perumahan baru.",
+    "status": "Selesai",
+    "photo_url": "https://example.com/photos/report22.jpg"
+  },
+  {
+    "id": 23,
+    "user_id": "U023",
+    "timestamp": "2024-06-03T11:45:20Z",
+    "location": {
+      "latitude": -6.315000,
+      "longitude": 106.925000
+    },
+    "category": "Banjir",
+    "description": "Genangan air di jalan utama dekat pasar.",
+    "status": "Dalam Proses",
+    "photo_url": "https://example.com/photos/report23.jpg"
+  },
+  {
+    "id": 24,
+    "user_id": "U024",
+    "timestamp": "2024-06-03T12:55:55Z",
+    "location": {
+      "latitude": -6.320000,
+      "longitude": 106.930000
+    },
+    "category": "Kerusakan Jalan",
+    "description": "Aspal jalan rusak parah di jalan desa.",
+    "status": "Dalam Proses",
+    "photo_url": "https://example.com/photos/report24.jpg"
+  },
+  {
+    "id": 25,
+    "user_id": "U025",
+    "timestamp": "2024-06-03T14:10:30Z",
+    "location": {
+      "latitude": -6.325000,
+      "longitude": 106.935000
+    },
+    "category": "Sampah",
+    "description": "Sampah berserakan di area parkir umum.",
+    "status": "Selesai",
+    "photo_url": "https://example.com/photos/report25.jpg"
+  }
+]
+"Media_sosial_dan_berita_terverifikasi": [
+[
+  {
+    "post_id": "SM001",
+    "user": "user01",
+    "date": "2025-09-18T10:15:00Z",
+    "platform": "Instagram",
+    "content": "Menikmati pagi dengan secangkir kopi ☕️ #morningvibes",
+    "likes": 120,
+    "comments": 15,
+    "shares": 5
+  },
+  {
+    "post_id": "SM002",
+    "user": "user02",
+    "date": "2025-09-18T11:00:00Z",
+    "platform": "Twitter",
+    "content": "Launching produk terbaru kami hari ini! #newproduct",
+    "likes": 300,
+    "comments": 40,
+    "shares": 60
+  },
+  {
+    "post_id": "SM003",
+    "user": "user03",
+    "date": "2025-09-18T12:30:00Z",
+    "platform": "Facebook",
+    "content": "Liburan ke pantai bersama keluarga, sangat menyenangkan!",
+    "likes": 250,
+    "comments": 30,
+    "shares": 20
+  },
+  {
+    "post_id": "SM004",
+    "user": "user04",
+    "date": "2025-09-18T13:45:00Z",
+    "platform": "LinkedIn",
+    "content": "Menghadiri konferensi teknologi tahunan, banyak ilmu baru didapat.",
+    "likes": 180,
+    "comments": 25,
+    "shares": 10
+  },
+  {
+    "post_id": "SM005",
+    "user": "user05",
+    "date": "2025-09-18T14:20:00Z",
+    "platform": "Instagram",
+    "content": "Resep kue coklat favorit keluarga, siapa mau coba? #baking",
+    "likes": 220,
+    "comments": 18,
+    "shares": 8
+  },
+  {
+    "post_id": "SM006",
+    "user": "user06",
+    "date": "2025-09-18T15:00:00Z",
+    "platform": "Twitter",
+    "content": "Cuaca hari ini cerah, saatnya jogging! #healthylife",
+    "likes": 140,
+    "comments": 12,
+    "shares": 7
+  },
+  {
+    "post_id": "SM007",
+    "user": "user07",
+    "date": "2025-09-18T16:10:00Z",
+    "platform": "Facebook",
+    "content": "Rekomendasi film seru untuk akhir pekan, ada yang sudah nonton?",
+    "likes": 190,
+    "comments": 22,
+    "shares": 15
+  },
+  {
+    "post_id": "SM008",
+    "user": "user08",
+    "date": "2025-09-18T17:25:00Z",
+    "platform": "LinkedIn",
+    "content": "Membagikan artikel terbaru tentang tren bisnis digital 2025.",
+    "likes": 210,
+    "comments": 30,
+    "shares": 25
+  },
+  {
+    "post_id": "SM009",
+    "user": "user09",
+    "date": "2025-09-18T18:40:00Z",
+    "platform": "Instagram",
+    "content": "Foto sunset di pantai, indah sekali! #naturephotography",
+    "likes": 320,
+    "comments": 40,
+    "shares": 18
+  },
+  {
+    "post_id": "SM010",
+    "user": "user10",
+    "date": "2025-09-18T19:55:00Z",
+    "platform": "Twitter",
+    "content": "Tips produktivitas kerja dari rumah, simak ya! #workfromhome",
+    "likes": 160,
+    "comments": 20,
+    "shares": 12
+  },
+  {
+    "post_id": "SM011",
+    "user": "user11",
+    "date": "2025-09-19T08:00:00Z",
+    "platform": "Facebook",
+    "content": "Momen reuni sekolah yang tak terlupakan.",
+    "likes": 270,
+    "comments": 35,
+    "shares": 22
+  },
+  {
+    "post_id": "SM012",
+    "user": "user12",
+    "date": "2025-09-19T09:15:00Z",
+    "platform": "LinkedIn",
+    "content": "Mengumumkan pencapaian tim dalam proyek besar.",
+    "likes": 230,
+    "comments": 28,
+    "shares": 20
+  },
+  {
+    "post_id": "SM013",
+    "user": "user13",
+    "date": "2025-09-19T10:30:00Z",
+    "platform": "Instagram",
+    "content": "Kreasi outfit casual untuk akhir pekan #fashion",
+    "likes": 280,
+    "comments": 33,
+    "shares": 14
+  },
+  {
+    "post_id": "SM014",
+    "user": "user14",
+    "date": "2025-09-19T11:45:00Z",
+    "platform": "Twitter",
+    "content": "Berita teknologi terbaru hari ini, jangan sampai ketinggalan!",
+    "likes": 190,
+    "comments": 25,
+    "shares": 17
+  },
+  {
+    "post_id": "SM015",
+    "user": "user15",
+    "date": "2025-09-19T12:50:00Z",
+    "platform": "Facebook",
+    "content": "Tips menjaga kesehatan mental di tengah kesibukan.",
+    "likes": 210,
+    "comments": 27,
+    "shares": 13
+  },
+  {
+    "post_id": "SM016",
+    "user": "user16",
+    "date": "2025-09-19T13:55:00Z",
+    "platform": "LinkedIn",
+    "content": "Mempersiapkan diri menghadapi wawancara kerja dengan percaya diri.",
+    "likes": 175,
+    "comments": 22,
+    "shares": 9
+  },
+  {
+    "post_id": "SM017",
+    "user": "user17",
+    "date": "2025-09-19T14:30:00Z",
+    "platform": "Instagram",
+    "content": "Momen seru saat hiking di pegunungan #adventure",
+    "likes": 300,
+    "comments": 38,
+    "shares": 20
+  },
+  {
+    "post_id": "SM018",
+    "user": "user18",
+    "date": "2025-09-19T15:45:00Z",
+    "platform": "Twitter",
+    "content": "Quotes motivasi untuk memulai hari dengan semangat!",
+    "likes": 220,
+    "comments": 18,
+    "shares": 11
+  },
+  {
+    "post_id": "SM019",
+    "user": "user19",
+    "date": "2025-09-19T16:50:00Z",
+    "platform": "Facebook",
+    "content": "Rekomendasi buku terbaik bulan ini, sudah baca yang mana?",
+    "likes": 260,
+    "comments": 30,
+    "shares": 16
+  },
+  {
+    "post_id": "SM020",
+    "user": "user20",
+    "date": "2025-09-19T17:55:00Z",
+    "platform": "LinkedIn",
+    "content": "Membangun jaringan profesional yang kuat di era digital.",
+    "likes": 200,
+    "comments": 24,
+    "shares": 14
+  },
+  {
+    "post_id": "SM021",
+    "user": "user21",
+    "date": "2025-09-19T18:10:00Z",
+    "platform": "Instagram",
+    "content": "Kreasi masakan sehat dan lezat untuk keluarga #foodie",
+    "likes": 310,
+    "comments": 35,
+    "shares": 19
+  },
+  {
+    "post_id": "SM022",
+    "user": "user22",
+    "date": "2025-09-19T19:20:00Z",
+    "platform": "Twitter",
+    "content": "Update terbaru dari dunia olahraga, siapa tim favoritmu?",
+    "likes": 180,
+    "comments": 20,
+    "shares": 10
+  },
+  {
+    "post_id": "SM023",
+    "user": "user23",
+    "date": "2025-09-19T20:30:00Z",
+    "platform": "Facebook",
+    "content": "Momen kebersamaan keluarga di akhir pekan.",
+    "likes": 270,
+    "comments": 28,
+    "shares": 15
+  },
+  {
+    "post_id": "SM024",
+    "user": "user24",
+    "date": "2025-09-19T21:40:00Z",
+    "platform": "LinkedIn",
+    "content": "Strategi pemasaran digital yang efektif untuk bisnis kecil.",
+    "likes": 190,
+    "comments": 21,
+    "shares": 12
+  },
+  {
+    "post_id": "SM025",
+    "user": "user25",
+    "date": "2025-09-19T22:50:00Z",
+    "platform": "Instagram",
+    "content": "Foto pemandangan kota di malam hari, indah dan menenangkan.",
+    "likes": 330,
+    "comments": 40,
+    "shares": 22
+  }
+]}
